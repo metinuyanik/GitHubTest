@@ -1,6 +1,8 @@
-fetch, pull, push
-
-pull = fetch + merge
+Daily short Info :
 -------------------------------
-320921-FirstLook_Xcode-v15 done.
-320921-Swift Playground 
+38230921-FirstLook_Xcode-v15 done.
+38230921-Swift Playground 
+38230922-Learning Basics
+38230923-Learning Basics
+38230924-Learning Basics
+39230925-Made project and uploaded. 
