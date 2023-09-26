@@ -5,4 +5,5 @@ Daily short Info :
 38230922-Learning Basics
 38230923-Learning Basics
 38230924-Learning Basics
-39230925-Made project and uploaded. 
+39230925-Made project and ready to upload. 
+39230926-I have a problem, some bugs and issues (fixed).The project will be completed tomorrow.
