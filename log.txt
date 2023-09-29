@@ -8,3 +8,5 @@ Daily short Info :
 39230925-Made project and ready to upload. 
 39230926-I have a problem, some bugs and issues (fixed).The project will be completed tomorrow.
 39230927-Project1 done.Project2 work in progress.
+39230928-Projects are being re-created. 1 repo for all Swift 100 projects.
+39230929-I'm preparing for the exam tomorrow.IOS Swift (Bootcamp registration test) Playground and Alogrithm <3 / PC update
