@@ -1,10 +1,10 @@
 Daily short Info :
 -------------------------------
-38230921-FirstLook_Xcode-v15 done.
-38230921-Swift Playground 
-38230922-Learning Basics
-38230923-Learning Basics
-38230924-Learning Basics
+39230920-FirstLook_Xcode-v15 done.
+39230921-Swift Playground 
+39230922-Learning Basics
+39230923-Learning Basics
+39230924-Learning Basics
 40230925-Made project and ready to upload. 
 40230926-I have a problem, some bugs and issues (fixed).The project will be completed tomorrow.
 40230927-Project1 done.Project2 work in progress.
