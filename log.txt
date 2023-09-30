@@ -10,3 +10,4 @@ Daily short Info :
 39230927-Project1 done.Project2 work in progress.
 39230928-Projects are being re-created. 1 repo for all Swift 100 projects.
 39230929-I'm preparing for the exam tomorrow.IOS Swift (Bootcamp registration test) Playground and Alogrithm <3 / PC update
+39230930-Hackeranks exercise. Swift doc repeat fast!!!
