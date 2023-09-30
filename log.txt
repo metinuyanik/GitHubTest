@@ -5,9 +5,9 @@ Daily short Info :
 38230922-Learning Basics
 38230923-Learning Basics
 38230924-Learning Basics
-39230925-Made project and ready to upload. 
-39230926-I have a problem, some bugs and issues (fixed).The project will be completed tomorrow.
-39230927-Project1 done.Project2 work in progress.
-39230928-Projects are being re-created. 1 repo for all Swift 100 projects.
-39230929-I'm preparing for the exam tomorrow.IOS Swift (Bootcamp registration test) Playground and Alogrithm <3 / PC update
-39230930-Hackeranks exercise. Swift doc repeat fast!!!
+40230925-Made project and ready to upload. 
+40230926-I have a problem, some bugs and issues (fixed).The project will be completed tomorrow.
+40230927-Project1 done.Project2 work in progress.
+40230928-Projects are being re-created. 1 repo for all Swift 100 projects.
+40230929-I'm preparing for the exam tomorrow.IOS Swift (Bootcamp registration test) Playground and Alogrithm <3 / PC update
+40230930-Hackeranks exercise. Swift doc repeat fast!!!
