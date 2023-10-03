@@ -1,3 +1,14 @@
+					Captain's Logbook
+                   |~
+             |/    w
+            / (   (|   \
+           /( (/   |)  |\
+    ____    ( (/    (|   | )  ,
+   |----\   (/ |    /|   |'\ /^;
+    \---*---Y--+-----+---+--/(
+     \------*---*--*---*--/
+~~~~ ~'~~ ~ ~~~~~~~~~~ ~~'~~~~ ~~~~
+
 Daily short Info :
 -------------------------------
 39230920-FirstLook_Xcode-v15 done.
@@ -13,3 +24,4 @@ Daily short Info :
 40230930-Hackeranks exercise. Swift doc repeat fast!!!
 40230901-Test day off.
 41230902-Hackerrank solved.Course new epsiodes done.Swift100 5 projects done. Waiting to be uploaded to Github.(GoodNight everyone:) )
+41230903-I found a new community that is good for me while working on my projects and courses.
