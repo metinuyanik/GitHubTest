@@ -25,5 +25,7 @@ Daily short Info :
 40231001-Test day off.
 41231002-Hackerrank solved.Course new epsiodes done.Swift100 5 projects done. Waiting to be uploaded to Github.(GoodNight everyone:) )
 41231003-I found a new community that is good for me while working on my projects and courses.
-41231004-Project uploaded. Live course, video course.Search about GitHub Lisances, .DS_Store fix stackowerflow,learning README.md Markdownguide.
-41231005-Project done. video course. I prepared my readme.md file on github.
+41231004-Project2 uploaded. Live course, video course.Search about GitHub Lisances, .DS_Store fix stackowerflow,learning README.md Markdownguide.
+41231005-Project3 done. video course. I prepared my readme.md file on github.
+41231006-Project4 done. video course. My readme.me on fire!! & driving school. 
+41231007-
