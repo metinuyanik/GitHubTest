@@ -11,11 +11,13 @@
 
 Daily short Info :
 -------------------------------
+
 39230920-FirstLook_Xcode-v15 done.
 39230921-Swift Playground 
 39230922-Learning Basics
 39230923-Learning Basics
 39230924-Learning Basics
+
 40230925-Made project and ready to upload. 
 40230926-I have a problem, some bugs and issues (fixed).The project will be completed tomorrow.
 40230927-Project1 done.Project2 work in progress.
@@ -23,9 +25,12 @@ Daily short Info :
 40230929-I'm preparing for the exam tomorrow.IOS Swift (Bootcamp registration test) Playground and Alogrithm <3 / PC update
 40230930-Hackeranks exercise. Swift doc repeat fast!!!
 40231001-Test day off.
+
 41231002-Hackerrank solved.Course new epsiodes done.Swift100 5 projects done. Waiting to be uploaded to Github.(GoodNight everyone:) )
 41231003-I found a new community that is good for me while working on my projects and courses.
 41231004-Project2 uploaded. Live course, video course.Search about GitHub Lisances, .DS_Store fix stackowerflow,learning README.md Markdownguide.
 41231005-Project3 done. video course. I prepared my readme.md file on github.
 41231006-Project4 done. video course. My readme.me on fire!! & driving school. 
-41231007-
+41231007-Project[5,6,7] video course.
+41231008-Project[8,9] video course. Happy Weekend. I'm resting :o zZz!
+
